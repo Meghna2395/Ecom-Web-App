@@ -1,0 +1,28 @@
+.mainDiv label{
+display: block;
+font-size: 18px;
+margin:16px 0px;
+}
+
+.mainDiv input{
+    display: block;
+    height: 28px;
+    font-size: 22px;
+    background-color:#F8F8F8;
+    width: 80%;
+    margin:16px 0px;
+    border: 1px solid rgb(102 102 102 / 25%);
+
+}
+
+.mainDiv button{
+    margin-top: 10px;
+}
+
+.mainDiv h2{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+
+

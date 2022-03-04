@@ -1,0 +1,18 @@
+.mainDiv{
+    margin: 0px 350px;
+    height: 54px;
+    padding-top: 10px;
+    display: flex;
+}
+
+.mainDiv div{
+    flex: 1;
+}
+
+.pp p:hover{
+    color: #0D76BB;
+}
+
+.mainDiv p{
+    display: inline-block;
+}

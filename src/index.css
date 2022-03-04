@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+:focus{
+  outline: none;
+}
+
+
+button:hover{
+   background-color: #E5B700 !important;
+   color: white  !important;
+}
+
+
+a{
+  text-decoration: none !important;
+  color:black !important;
+}
+
+a:active{
+  color:black !important;
+
+
+}
+
+td{
+  align-items: center;
+}
+
+
+/* .active{
+  background-color: skyblue;
+} */

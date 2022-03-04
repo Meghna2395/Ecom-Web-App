@@ -1,0 +1,58 @@
+.mainDiv{
+    display: flex;
+    width: 100%;
+}
+
+
+.imgB{
+    flex: 2;
+    margin: 10px;
+}
+
+
+.imgB img{
+    width: 100%;
+    height: 100%;
+    /* margin: 0px -20px; */
+}
+
+.imgS{
+     flex: 1;
+    margin: 10px;
+
+
+}
+
+
+
+.imgSin{
+    display: flex;
+    flex-direction: column;
+}
+
+.imgSin img{
+   flex: 1;
+}
+
+
+
+
+/* ------------------------------------------------------------------------------------- */
+
+
+
+.mainDiv2{
+    display:flex;
+    width: 100%;
+}
+
+
+.imgCom2{
+    flex: 1;
+}
+
+.imgCom2 img{
+    display: block;
+    margin: auto;
+    
+}

@@ -1,0 +1,13 @@
+.mainDiv{
+    margin: 0px 350px;
+    display: flex;
+}
+
+
+.mainDiv p{
+    flex: 1;
+    margin: 0px;
+    padding: 12px;
+    font-size: 18px;
+    text-align: center;
+}

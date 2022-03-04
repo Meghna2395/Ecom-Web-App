@@ -1,0 +1,35 @@
+.mainDiv{
+    margin: 0px 350px;
+    display: flex;
+    padding: 18px 0px;
+}
+
+
+.mainDiv .div1{
+    flex: 1;
+
+}
+
+
+.mainDiv .div2{
+    flex: 2;
+}
+
+
+.mainDiv .div2 input{
+    height: 33.5px;
+    width: 70%;
+    border: none ;
+    border-radius: 10px;
+    padding: 0px 10px;
+}
+
+.mainDiv .div2 button{
+    padding: 10.5px 12px;
+    background-color: royalblue;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    margin-left: -12px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
